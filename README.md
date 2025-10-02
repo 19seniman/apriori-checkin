@@ -12,7 +12,8 @@ https://of.apr.io/dashboard
 #INSTALLATION
 
 ```
-git clone 
+git clone https://github.com/19seniman/apriori-checkin.git
+cd apriori-checkin
 ```
 ```
 npm install
